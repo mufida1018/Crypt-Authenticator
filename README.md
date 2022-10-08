@@ -28,11 +28,3 @@ A Time-Based One-Time Password or TOTP is a string of dynamic digits of code, wh
 ## User Installation
 
 To build this project, simply clone this repo and open it as a flutter project in your Android Studio.
-
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
