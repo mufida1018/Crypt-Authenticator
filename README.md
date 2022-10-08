@@ -2,8 +2,11 @@
     <b>
         Crypt Authenticator<br>
     </b>
-    ⭐️  The secure way to access your apps  ⭐️ <br>
 </h1>
+    <h2>
+    ⭐️  The secure way to access your apps  ⭐️ <br>
+    </h2>
+
 
 
 Crypt Authenticator is a simple TOTP code generator that confirms you location and allows users to generate TOTP codes using two methods. 
