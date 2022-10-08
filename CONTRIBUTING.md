@@ -5,7 +5,10 @@ Any contributions you make will benefit everybody else and are greatly appreciat
 
 ## Please try to create bug reports that are:
 
-Reproducible. Include steps to reproduce the problem.
-Specific. Include as much detail as possible: which version, what environment, etc.
-Unique. Do not duplicate existing opened issues.
-Scoped to a Single Bug. One bug per report.
+
+<ul>
+    <li>Reproducible. Include steps to reproduce the problem.</li>
+    <li>Specific. Include as much detail as possible: which version, what environment, etc.</li>
+    <li>Unique. Do not duplicate existing opened issues.</li>
+    <li>Scoped to a Single Bug. One bug per report.</li>
+</ul>
