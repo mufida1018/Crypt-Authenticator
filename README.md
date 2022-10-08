@@ -19,12 +19,9 @@ Crypt Authenticator is a simple TOTP code generator that confirms you location a
 A Time-Based One-Time Password or TOTP is a string of dynamic digits of code, whose change is based on time. Often, these appear as sic-digit numbers that regenerate every 10 seconds.
 
 <div>
-<p align="left">
-<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="300px" /></p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="300px" /></p>
-<p align="right">
-<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="300px"/></p>
+<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="320px" />
+<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="320px" />
+<img src="https://user-images.githubusercontent.com/14253061/194707488-db707011-974b-4783-b979-1ab84636de32.jpeg" alt="App Screengrab 1" width="320px"/>
 </div>
 
 
