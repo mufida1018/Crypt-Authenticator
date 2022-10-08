@@ -1,10 +1,16 @@
-# 2-Factor Authentication with Location
+<h1 align="center" style="border-bottom: none">
+    <b>
+        Crypt Authenticator<br>
+    </b>
+    ⭐️  The secure way to access your apps  ⭐️ <br>
+</h1>
+
 
 Crypt Authenticator is a simple TOTP code generator that confirms you location and allows users to generate TOTP codes using two methods. 
 
 <ul>
     <li>Scanning a QR code</li>
-    <li>Manually entering a secret</li>
+    <li>Manually entering a secret key</li>
 </ul>
 
 A Time-Based One-Time Password or TOTP is a string of dynamic digits of code, whose change is based on time. Often, these appear as sic-digit numbers that regenerate every 10 seconds.
